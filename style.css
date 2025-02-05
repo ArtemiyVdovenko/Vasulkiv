@@ -1,0 +1,16 @@
+img{
+    width: 100%;
+}
+.nav-link {
+    color: black;
+}
+.navbar{
+    background-color: #c9e6f8;
+}
+footer{
+    background-color: rgb(96, 96, 96);
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
